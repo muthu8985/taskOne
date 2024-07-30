@@ -1,3 +1,26 @@
 body{
     background-color: blueviolet;
 }
+h1{
+    display:flex;
+    justify-content: center;
+color :whitesmoke;
+}
+h2{
+    display: flex;
+    justify-content:first baseline;
+    color:whitesmoke;
+}
+span{
+    display: flex;
+    justify-content: baseline;
+    color:aliceblue;
+}
+h3{
+    display: flex;
+    justify-content: baseline;
+    color:aliceblue;
+}
+.line{
+    color: red;
+}
